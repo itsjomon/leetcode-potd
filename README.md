@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 08-03-2025 | 2379 | [Solution](./2379.java) | [Problem](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08) |
 | 07-03-2025 | 2523 | [Solution](./2523.java) | [Problem](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07) |
 | 06-03-2025 | 2965 | [Solution](./2965.java) | [Problem](https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06) |
 | 05-03-2025 | 2579 | [Solution](./2579.java) | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/?envType=daily-question&envId=2025-03-05) |
