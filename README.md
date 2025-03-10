@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 10-03-2025 | 3306 | [Solution](./3306.java) | [Problem](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10) |
 | 09-03-2025 | 3208 | [Solution](./3208.java) | [Problem](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09) |
 | 08-03-2025 | 2379 | [Solution](./2379.java) | [Problem](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08) |
 | 07-03-2025 | 2523 | [Solution](./2523.java) | [Problem](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07) |
