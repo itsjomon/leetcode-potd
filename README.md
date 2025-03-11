@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 11-03-2025 | 1358 | [Solution](./1358.java) | [Problem](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11) |
 | 10-03-2025 | 3306 | [Solution](./3306.java) | [Problem](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10) |
 | 09-03-2025 | 3208 | [Solution](./3208.java) | [Problem](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09) |
 | 08-03-2025 | 2379 | [Solution](./2379.java) | [Problem](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08) |
@@ -82,7 +83,6 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 | 03-01-2025 | 2270 | [Solution](./2270.java) | [problem](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03) |
 | 02-01-2025 | 2559 | [Solution](./2559.java) | [problem](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02) |
 | 01-01-2025 | 1422 | [Solution](./1422.java) | [problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01) |
-
 
 ## 🌟 *Don’t Forget to Star!*
 If you find this repo useful, please consider giving it a star ⭐. It helps others discover it too!
