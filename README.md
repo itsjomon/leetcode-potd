@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 12-03-2025 | 2529 | [Solution](./2529.java) | [Problem](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12) |
 | 11-03-2025 | 1358 | [Solution](./1358.java) | [Problem](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11) |
 | 10-03-2025 | 3306 | [Solution](./3306.java) | [Problem](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10) |
 | 09-03-2025 | 3208 | [Solution](./3208.java) | [Problem](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09) |
