@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 15-03-2025 | 2560 | [Solution](./2560.java) | [Problem](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15) |
 | 14-03-2025 | 2226 | [Solution](./2226.java) | [Problem](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/?envType=daily-question&envId=2025-03-14) |
 | 13-03-2025 | 3356 | [Solution](./3356.java) | [Problem](https://leetcode.com/problems/zero-array-transformation-ii/?envType=daily-question&envId=2025-03-13) |
 | 12-03-2025 | 2529 | [Solution](./2529.java) | [Problem](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12) |
