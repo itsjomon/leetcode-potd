@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 17-03-2025 | 2206 | [Solution](./2206.java) | [Problem](https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17) |
 | 16-03-2025 | 2594 | [Solution](./2594.java) | [Problem](https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16) |
 | 15-03-2025 | 2560 | [Solution](./2560.java) | [Problem](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15) |
 | 14-03-2025 | 2226 | [Solution](./2226.java) | [Problem](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/?envType=daily-question&envId=2025-03-14) |
