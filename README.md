@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 21-03-2025 | 2115 | [Solution](./2115.java) | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21) |
 | 20-03-2025 | 3108 | [Solution](./3108.java) | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20) |
 | 19-03-2025 | 3191 | [Solution](./3191.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19) |
 | 18-03-2025 | 2401 | [Solution](./2401.java) | [Problem](https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18) |
