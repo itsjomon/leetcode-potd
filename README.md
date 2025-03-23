@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 23-03-2025 | 1976 | [Solution](./1976.java) | [Problem](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23) |
 | 22-03-2025 | 2685 | [Solution](./2685.java) | [Problem](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22) |
 | 21-03-2025 | 2115 | [Solution](./2115.java) | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21) |
 | 20-03-2025 | 3108 | [Solution](./3108.java) | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20) |
