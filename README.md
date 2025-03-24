@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 24-03-2025 | 3169 | [Solution](./3169.java) | [Problem](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24) |
 | 23-03-2025 | 1976 | [Solution](./1976.java) | [Problem](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23) |
 | 22-03-2025 | 2685 | [Solution](./2685.java) | [Problem](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22) |
 | 21-03-2025 | 2115 | [Solution](./2115.java) | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21) |
