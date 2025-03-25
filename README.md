@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 25-03-2025 | 3394 | [Solution](./3394.java) | [Problem](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25) |
 | 24-03-2025 | 3169 | [Solution](./3169.java) | [Problem](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24) |
 | 23-03-2025 | 1976 | [Solution](./1976.java) | [Problem](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23) |
 | 22-03-2025 | 2685 | [Solution](./2685.java) | [Problem](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22) |
