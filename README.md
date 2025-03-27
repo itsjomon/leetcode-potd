@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 27-03-2025 | 2780 | [Solution](./2780.java) | [Problem](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27) |
 | 26-03-2025 | 2033 | [Solution](./2033.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26) |
 | 25-03-2025 | 3394 | [Solution](./3394.java) | [Problem](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25) |
 | 24-03-2025 | 3169 | [Solution](./3169.java) | [Problem](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24) |
