@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 29-03-2025 | 2818 | [Solution](./2818.java) | [Problem](https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29) |
 | 28-03-2025 | 2503 | [Solution](./2503.java) | [Problem](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/?envType=daily-question&envId=2025-03-28) |
 | 27-03-2025 | 2780 | [Solution](./2780.java) | [Problem](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27) |
 | 26-03-2025 | 2033 | [Solution](./2033.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26) |
