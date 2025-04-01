@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 01-04-2025 | 2140 | [Solution](./2140.java) | [Problem](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01) |
 | 31-03-2025 | 2551 | [Solution](./2551.java) | [Problem](https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31) |
 | 30-03-2025 | 763  | [Solution](./763.java)  | [Problem](https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30) |
 | 29-03-2025 | 2818 | [Solution](./2818.java) | [Problem](https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29) |
