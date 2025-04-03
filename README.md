@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 03-04-2025 | 2874 | [Solution](./2874.java) | [Problem](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/?envType=daily-question&envId=2025-04-03) |
 | 02-04-2025 | 2873 | [Solution](./2873.java) | [Problem](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02) |
 | 01-04-2025 | 2140 | [Solution](./2140.java) | [Problem](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01) |
 | 31-03-2025 | 2551 | [Solution](./2551.java) | [Problem](https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31) |
