@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 05-04-2025 | 1863 | [Solution](./1863.java) | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2025-04-05) |
 | 04-04-2025 | 1123 | [Solution](./1123.java) | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04) |
 | 03-04-2025 | 2874 | [Solution](./2874.java) | [Problem](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/?envType=daily-question&envId=2025-04-03) |
 | 02-04-2025 | 2873 | [Solution](./2873.java) | [Problem](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02) |
