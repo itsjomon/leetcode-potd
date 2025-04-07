@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 07-04-2025 | 416  | [Solution](./416.java)  | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/?envType=daily-question&envId=2025-04-07) |
 | 06-04-2025 | 368  | [Solution](./368.java)  | [Problem](https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2025-04-06) |
 | 05-04-2025 | 1863 | [Solution](./1863.java) | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2025-04-05) |
 | 04-04-2025 | 1123 | [Solution](./1123.java) | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/?envType=daily-question&envId=2025-04-04) |
