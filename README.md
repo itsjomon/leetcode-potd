@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 08-04-2025 | 3396 | [Solution](./3396.java) | [Problem](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08) |
 | 07-04-2025 | 416  | [Solution](./416.java)  | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/?envType=daily-question&envId=2025-04-07) |
 | 06-04-2025 | 368  | [Solution](./368.java)  | [Problem](https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2025-04-06) |
 | 05-04-2025 | 1863 | [Solution](./1863.java) | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2025-04-05) |
