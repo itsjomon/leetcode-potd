@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 10-04-2025 | 2999 | [Solution](./2999.java) | [Problem](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10) |
 | 09-04-2025 | 3375 | [Solution](./3375.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09) |
 | 08-04-2025 | 3396 | [Solution](./3396.java) | [Problem](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08) |
 | 07-04-2025 | 416  | [Solution](./416.java)  | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/?envType=daily-question&envId=2025-04-07) |
