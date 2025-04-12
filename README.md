@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 12-04-2025 | 3272 | [Solution](./3272.java) | [Problem](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12) |
 | 11-04-2025 | 2843 | [Solution](./2843.java) | [Problem](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11) |
 | 10-04-2025 | 2999 | [Solution](./2999.java) | [Problem](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10) |
 | 09-04-2025 | 3375 | [Solution](./3375.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09) |
