@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 14-04-2025 | 1534 | [Solution](./1534.java) | [Problem](https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14) |
 | 13-04-2025 | 1922 | [Solution](./1922.java) | [Problem](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13) |
 | 12-04-2025 | 3272 | [Solution](./3272.java) | [Problem](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12) |
 | 11-04-2025 | 2843 | [Solution](./2843.java) | [Problem](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11) |
