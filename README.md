@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 16-04-2025 | 2537 | [Solution](./2537.java) | [Problem](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16) |
 | 15-04-2025 | 2179 | [Solution](./2179.java) | [Problem](https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=daily-question&envId=2025-04-15) |
 | 14-04-2025 | 1534 | [Solution](./1534.java) | [Problem](https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14) |
 | 13-04-2025 | 1922 | [Solution](./1922.java) | [Problem](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13) |
