@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 19-04-2025 | 2563 | [Solution](./2563.java) | [Problem](https://leetcode.com/problems/count-the-number-of-fair-pairs/?envType=daily-question&envId=2025-04-19) |
 | 18-04-2025 | 38   | [Solution](./38.java)   | [Problem](https://leetcode.com/problems/count-and-say/description/?envType=daily-question&envId=2025-04-18) |
 | 17-04-2025 | 2176 | [Solution](./2176.java) | [Problem](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/?envType=daily-question&envId=2025-04-17) |
 | 16-04-2025 | 2537 | [Solution](./2537.java) | [Problem](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16) |
