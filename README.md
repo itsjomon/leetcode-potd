@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 23-04-2025 | 1399 | [Solution](./1399.java) | [Problem](https://leetcode.com/problems/count-largest-group/?envType=daily-question&envId=2025-04-23) |
 | 22-04-2025 | 2338 | [Solution](./2338.java) | [Problem](https://leetcode.com/problems/count-the-number-of-ideal-arrays/?envType=daily-question&envId=2025-04-22) |
 | 21-04-2025 | 2145 | [Solution](./2145.java) | [Problem](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21) |
 | 20-04-2025 | 781  | [Solution](./781.java)  | [Problem](https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20) |
