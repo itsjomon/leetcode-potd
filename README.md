@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 30-04-2025 | 1295 | [Solution](./1295.java) | [Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?envType=daily-question&envId=2025-04-30) |
 | 29-04-2025 | 2962 | [Solution](./2962.java) | [Problem](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2025-04-29) |
 | 28-04-2025 | 2302 | [Solution](./2302.java) | [Problem](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/?envType=daily-question&envId=2025-04-28) |
 | 27-04-2025 | 3392 | [Solution](./3392.java) | [Problem](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27) |
