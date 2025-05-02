@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 02-05-2025 | 838  | [Solution](./838.java)  | [Problem](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02) |
 | 01-05-2025 | 2071 | [Solution](./2071.java) | [Problem](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/?envType=daily-question&envId=2025-05-01) |
 | 30-04-2025 | 1295 | [Solution](./1295.java) | [Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?envType=daily-question&envId=2025-04-30) |
 | 29-04-2025 | 2962 | [Solution](./2962.java) | [Problem](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2025-04-29) |
