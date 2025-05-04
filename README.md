@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 04-05-2025 | 1128 | [Solution](./1128.java) | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04) |
 | 03-05-2025 | 1007 | [Solution](./1007.java) | [Problem](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03) |
 | 02-05-2025 | 838  | [Solution](./838.java)  | [Problem](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02) |
 | 01-05-2025 | 2071 | [Solution](./2071.java) | [Problem](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/?envType=daily-question&envId=2025-05-01) |
