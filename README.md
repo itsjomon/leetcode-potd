@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 07-05-2025 | 3341 | [Solution](./3341.java) | [Problem](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/?envType=daily-question&envId=2025-05-07) |
 | 06-05-2025 | 1920 | [Solution](./1920.java) | [Problem](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06) |
 | 05-05-2025 | 790  | [Solution](./790.java)  | [Problem](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-05) |
 | 04-05-2025 | 1128 | [Solution](./1128.java) | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04) |
