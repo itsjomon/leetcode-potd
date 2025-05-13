@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 13-05-2025 | 3335 | [Solution](./3335.java) | [Problem](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/?envType=daily-question&envId=2025-05-13) |
 | 12-05-2025 | 2094 | [Solution](./2094.java) | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12) |
 | 11-05-2025 | 1550 | [Solution](./1550.java) | [Problem](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11) |
 | 10-05-2025 | 2918 | [Solution](./2918.java) | [Problem](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/?envType=daily-question&envId=2025-05-10) |
