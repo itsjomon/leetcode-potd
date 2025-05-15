@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 15-05-2025 | 2900 | [Solution](./2900.java) | [Problem](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15) |
 | 14-05-2025 | 3337 | [Solution](./3337.java) | [Problem](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14) |
 | 13-05-2025 | 3335 | [Solution](./3335.java) | [Problem](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/?envType=daily-question&envId=2025-05-13) |
 | 12-05-2025 | 2094 | [Solution](./2094.java) | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12) |
