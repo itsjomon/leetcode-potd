@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 18-05-2025 | 1931 | [Solution](./1931.java) | [Problem](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/?envType=daily-question&envId=2025-05-18) |
 | 17-05-2025 | 75   | [Solution](./75.java)   | [Problem](https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2025-05-17) |
 | 16-05-2025 | 2901 | [Solution](./2901.java) | [Problem](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16) |
 | 15-05-2025 | 2900 | [Solution](./2900.java) | [Problem](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15) |
