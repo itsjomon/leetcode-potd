@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 20-05-2025 | 3355 | [Solution](./3355.java) | [Problem](https://leetcode.com/problems/zero-array-transformation-i/?envType=daily-question&envId=2025-05-20) |
 | 19-05-2025 | 3024 | [Solution](./3024.java) | [Problem](https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19) |
 | 18-05-2025 | 1931 | [Solution](./1931.java) | [Problem](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/?envType=daily-question&envId=2025-05-18) |
 | 17-05-2025 | 75   | [Solution](./75.java)   | [Problem](https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2025-05-17) |
