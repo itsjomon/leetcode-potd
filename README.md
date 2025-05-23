@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 23-05-2025 | 3068 | [Solution](./3068.java) | [Problem](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/?envType=daily-question&envId=2025-05-23) |
 | 22-05-2025 | 3362 | [Solution](./3362.java) | [Problem](https://leetcode.com/problems/zero-array-transformation-iii/?envType=daily-question&envId=2025-05-22) |
 | 21-05-2025 | 73   | [Solution](./73.java)   | [Problem](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21) |
 | 20-05-2025 | 3355 | [Solution](./3355.java) | [Problem](https://leetcode.com/problems/zero-array-transformation-i/?envType=daily-question&envId=2025-05-20) |
