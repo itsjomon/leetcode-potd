@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 25-05-2025 | 2131 | [Solution](./2131.java) | [Problem](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25) |
 | 24-05-2025 | 2942 | [Solution](./2942.java) | [Problem](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24) |
 | 23-05-2025 | 3068 | [Solution](./3068.java) | [Problem](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/?envType=daily-question&envId=2025-05-23) |
 | 22-05-2025 | 3362 | [Solution](./3362.java) | [Problem](https://leetcode.com/problems/zero-array-transformation-iii/?envType=daily-question&envId=2025-05-22) |
