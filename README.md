@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 31-05-2025 | 909  | [Solution](./909.java)  | [Problem](https://leetcode.com/problems/snakes-and-ladders/description/?envType=daily-question&envId=2025-05-31) |
 | 30-05-2025 | 2359 | [Solution](./2359.java) | [Problem](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/?envType=daily-question&envId=2025-05-30) |
 | 29-05-2025 | 3373 | [Solution](./3373.java) | [Problem](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29) |
 | 28-05-2025 | 3372 | [Solution](./3372.java) | [Problem](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28) |
