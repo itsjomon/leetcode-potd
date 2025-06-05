@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Solution Link                         | Problem Link                          |
 |------------|----------------|---------------------------------------|---------------------------------------|
+| 05-06-2025 | 1061 | [Solution](./1061.java) | [Problem](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/?envType=daily-question&envId=2025-06-05) |
 | 04-06-2025 | 3403 | [Solution](./3403.java) | [Problem](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/?envType=daily-question&envId=2025-06-04) |
 | 03-06-2025 | 1298 | [Solution](./1298.java) | [Problem](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/?envType=daily-question&envId=2025-06-03) |
 | 02-06-2025 | 135  | [Solution](./135.java)  | [Problem](https://leetcode.com/problems/candy/description/?envType=daily-question&envId=2025-06-02) |
