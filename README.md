@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|---|------------|--------------|---------------|
+| 07-06-2025 | 3170 | Medium | [Problem](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07) | [Solution](./3170.java) |
 | 06-06-2025 | 2434 | Medium | [Problem](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/?envType=daily-question&envId=2025-06-06) | [Solution](./2434.java) |
 | 05-06-2025 | 1061 | Medium | [Problem](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/?envType=daily-question&envId=2025-06-05) | [Solution](./1061.java) |
 | 04-06-2025 | 3403 | Medium | [Problem](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/?envType=daily-question&envId=2025-06-04) | [Solution](./3403.java) |
