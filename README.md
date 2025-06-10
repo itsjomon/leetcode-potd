@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 10-06-2025 | 3442 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/?envType=daily-question&envId=2025-06-10) | [Solution](./3442.java) |
 | 09-06-2025 | 440 | Hard | [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2025-06-09) | [Solution](./440.java) |
 | 08-06-2025 | 386 | Medium | [Problem](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2025-06-08) | [Solution](./386.java) |
 | 07-06-2025 | 3170 | Medium | [Problem](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07) | [Solution](./3170.java) |
