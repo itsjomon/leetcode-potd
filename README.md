@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 12-06-2025 | 3423 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12) | [Solution](./3423.java) |
 | 11-06-2025 | 3445 | Hard | [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/?envType=daily-question&envId=2025-06-11) | [Solution](./3445.java) |
 | 10-06-2025 | 3442 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/?envType=daily-question&envId=2025-06-10) | [Solution](./3442.java) |
 | 09-06-2025 | 440 | Hard | [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2025-06-09) | [Solution](./440.java) |
