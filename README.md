@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 14-06-2025 | 2566 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/submissions/1663381273/?envType=daily-question&envId=2025-06-14) | [Solution](./2566.java) |
 | 13-06-2025 | 2616 | Medium | [Problem](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13) | [Solution](./2616.java) |
 | 12-06-2025 | 3423 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12) | [Solution](./3423.java) |
 | 11-06-2025 | 3445 | Hard | [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/?envType=daily-question&envId=2025-06-11) | [Solution](./3445.java) |
