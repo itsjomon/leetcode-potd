@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 17-06-2025 | 3405 | Hard | [Problem](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17) | [Solution](./3405.java) |
 | 16-06-2025 | 2016 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16) | [Solution](./2016.java) |
 | 15-06-2025 | 1432 | Medium | [Problem](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15) | [Solution](./1432.java) |
 | 14-06-2025 | 2566 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/submissions/1663381273/?envType=daily-question&envId=2025-06-14) | [Solution](./2566.java) |
