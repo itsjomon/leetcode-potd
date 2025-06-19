@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 19-06-2025 | 2294 | Medium | [Problem](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/?envType=daily-question&envId=2025-06-19) | [Solution](./2294.java) |
 | 18-06-2025 | 2966 | Medium | [Problem](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2025-06-18) | [Solution](./2966.java) |
 | 17-06-2025 | 3405 | Hard | [Problem](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17) | [Solution](./3405.java) |
 | 16-06-2025 | 2016 | Easy | [Problem](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16) | [Solution](./2016.java) |
