@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 23-06-2025 | 2081 | Hard | [Problem](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23) | [Solution](./2081.java) |
 | 22-06-2025 | 2138 | Easy | [Problem](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22) | [Solution](./2138.java) |
 | 21-06-2025 | 3085 | Medium | [Problem](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21) | [Solution](./3085.java) |
 | 20-06-2025 | 3443 | Medium | [Problem](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20) | [Solution](./3443.java) |
