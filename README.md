@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 25-06-2025 | 2040 | Hard | [Problem](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25) | [Solution](./2040.java) |
 | 24-06-2025 | 2200 | Easy | [Problem](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/?envType=daily-question&envId=2025-06-24) | [Solution](./2200.java) |
 | 23-06-2025 | 2081 | Hard | [Problem](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23) | [Solution](./2081.java) |
 | 22-06-2025 | 2138 | Easy | [Problem](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22) | [Solution](./2138.java) |
