@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 26-06-2025 | 2311 | Medium | [Problem](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | [Solution](./2311.java) |
 | 25-06-2025 | 2040 | Hard | [Problem](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25) | [Solution](./2040.java) |
 | 24-06-2025 | 2200 | Easy | [Problem](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/?envType=daily-question&envId=2025-06-24) | [Solution](./2200.java) |
 | 23-06-2025 | 2081 | Hard | [Problem](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23) | [Solution](./2081.java) |
