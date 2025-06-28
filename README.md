@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 28-06-2025 | 2099 | Easy | [Problem](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28) | [Solution](./2099.java) |
 | 27-06-2025 | 2014 | Hard | [Problem](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/?envType=daily-question&envId=2025-06-27) | [Solution](./2014.java) |
 | 26-06-2025 | 2311 | Medium | [Problem](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | [Solution](./2311.java) |
 | 25-06-2025 | 2040 | Hard | [Problem](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25) | [Solution](./2040.java) |
