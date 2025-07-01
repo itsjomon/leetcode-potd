@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 01-07-2025 | 3330 | Easy | [Problem](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01) | [Solution](./3330.java) |
 | 30-06-2025 | 594 | Easy | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30) | [Solution](./594.java) |
 | 29-06-2025 | 1498 | Medium | [Problem](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29) | [Solution](./1498.java) |
 | 28-06-2025 | 2099 | Easy | [Problem](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28) | [Solution](./2099.java) |
