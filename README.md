@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 03-07-2025 | 3304 | Easy | [Problem](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03) | [Solution](./3304.java) |
 | 02-07-2025 | 3333 | Hard | [Problem](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02) | [Solution](./3333.java) |
 | 01-07-2025 | 3330 | Easy | [Problem](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01) | [Solution](./3330.java) |
 | 30-06-2025 | 594 | Easy | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30) | [Solution](./594.java) |
