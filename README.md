@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 04-08-2025 |904 | Medium | [Problem](https://leetcode.com/problems/fruit-into-baskets/?envType=daily-question&envId=2025-08-04) | [Solution](./904.java) |
 | 03-08-2025 | 2106 | Hard | [Problem](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/?envType=daily-question&envId=2025-08-03) | [Solution](./2106.java) |
 | 02-08-2025 | 2561 | Hard | [Problem](https://leetcode.com/problems/rearranging-fruits/?envType=daily-question&envId=2025-08-02) | [Solution](./2561.java) |
 | 01-08-2025 | 118 | Easy | [Problem](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01) | [Solution](./118.java) |
