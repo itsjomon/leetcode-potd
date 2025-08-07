@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 07-08-2025 | 3363 | Hard | [Problem](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/?envType=daily-question&envId=2025-08-07) | [Solution](./3363.java) |
 | 06-08-2025 | 3479 | Medium | [Problem](https://leetcode.com/problems/fruits-into-baskets-iii/?envType=daily-question&envId=2025-08-06) | [Solution](./3479.java) |
 | 05-08-2025 | 3477 | Easy | [Problem](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05) | [Solution](./3477.java) |
 | 04-08-2025 | 904 | Medium | [Problem](https://leetcode.com/problems/fruit-into-baskets/?envType=daily-question&envId=2025-08-04) | [Solution](./904.java) |
