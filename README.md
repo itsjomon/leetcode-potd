@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 09-08-2025 | 231 | Easy | [Problem](https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09) | [Solution](./231.java) |
 | 08-08-2025 | 808 | Medium | [Problem](https://leetcode.com/problems/soup-servings/?envType=daily-question&envId=2025-08-08) | [Solution](./808.java) |
 | 07-08-2025 | 3363 | Hard | [Problem](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/?envType=daily-question&envId=2025-08-07) | [Solution](./3363.java) |
 | 06-08-2025 | 3479 | Medium | [Problem](https://leetcode.com/problems/fruits-into-baskets-iii/?envType=daily-question&envId=2025-08-06) | [Solution](./3479.java) |
