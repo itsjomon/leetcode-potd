@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 12-08-2025 | 2787 | Medium | [Problem](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/?envType=daily-question&envId=2025-08-12) | [Solution](./2787.java) |
 | 11-08-2025 | 2438 | Medium | [Problem](https://leetcode.com/problems/range-product-queries-of-powers/?envType=daily-question&envId=2025-08-11) | [Solution](./2438.java) |
 | 10-08-2025 | 869 | Medium | [Problem](https://leetcode.com/problems/reordered-power-of-2/?envType=daily-question&envId=2025-08-10) | [Solution](./869.java) |
 | 09-08-2025 | 231 | Easy | [Problem](https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09) | [Solution](./231.java) |
