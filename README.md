@@ -14,6 +14,7 @@ This repository contains **daily solutions** to the [LeetCode Problem of the Day
 
 | Date | Problem Number | Difficulty | Problem Link | Solution Link |
 |------|----------------|------------|--------------|---------------|
+| 14-08-2025 | 2264 | Easy | [Problem](https://leetcode.com/problems/largest-3-same-digit-number-in-string/?envType=daily-question&envId=2025-08-14) | [Solution](./2264.java) |
 | 13-08-2025 | 326 | Easy | [Problem](https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13) | [Solution](./326.java) |
 | 12-08-2025 | 2787 | Medium | [Problem](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/?envType=daily-question&envId=2025-08-12) | [Solution](./2787.java) |
 | 11-08-2025 | 2438 | Medium | [Problem](https://leetcode.com/problems/range-product-queries-of-powers/?envType=daily-question&envId=2025-08-11) | [Solution](./2438.java) |
